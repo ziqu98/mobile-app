@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">LoginApp</string>
+    <string name="username">Username</string>
+    <string name="login">LOGIN</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="login_btn">Login</string>
+    <string name="logo_desc">logo of eat-e-nice</string>
+    <string name="sign_up_txt">SIGN UP</string>
+    <string name="back_btn"><![CDATA[< Back]]></string>
+    <string name="phone_num">08XXXXXXXXX</string>
+    <string name="example_email">Example@email.com</string>
+    <string name="person_icon">a person icon</string>
+    <string name="lock_icon">a lock icon</string>
+    <string name="welcome">WELCOME!</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="send">Send</string>
+    <string name="forgot_pwd_title">FORGOT PASSWORD</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
